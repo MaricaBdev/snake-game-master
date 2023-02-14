@@ -3,7 +3,7 @@
 
 ![](https://i.ibb.co/XVZBfwd/Captur-de-ecran-din-2023-02-14-la-01-57-20.png)
 
-`Link` : <snake-game-master-blue.vercel.app>
+`Link` : <https://snake-game-master-iqdo92ks5-maricabdev.vercel.app>
 
 Snake Game was one of my first projects. Is an simple game based on famous Snake.
 
